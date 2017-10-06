@@ -1,6 +1,6 @@
 **These are legacy instructions for PhoneGap 2.9.**
 
-**Cordova 3.0 is the recommended way to use phonegap-nfc, see [Getting Started Cordova CLI](https://github.com/chariotsolutions/phonegap-nfc/blob/master/doc/GettingStartedCLI.md).**
+**Cordova 3.0 is the recommended way to use phonegap-nfc, see [Getting Started Cordova CLI](https://github.com/oaugustus/nfc-plugin/blob/master/doc/GettingStartedCLI.md).**
 
 ## Quickstart for PhoneGap NFC on Android
 

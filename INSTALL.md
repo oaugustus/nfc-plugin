@@ -1,4 +1,4 @@
-**Cordova 3.0 is the recommended way to use phonegap-nfc, see [Getting Started Cordova CLI](https://github.com/chariotsolutions/phonegap-nfc/blob/master/doc/GettingStartedCLI.md).**
+**Cordova 3.0 is the recommended way to use phonegap-nfc, see [Getting Started Cordova CLI](https://github.com/oaugustus/nfc-plugin/blob/master/doc/GettingStartedCLI.md).**
 
 # Installing PhoneGap NFC
 
@@ -23,7 +23,7 @@ Install plugman 0.7.10 or greater
 
 Get the latest source code
 
-    $ git clone https://github.com/chariotsolutions/phonegap-nfc.git
+    $ git clone https://github.com/oaugustus/nfc-plugin.git
 
 Install the plugin
 
@@ -33,7 +33,7 @@ Install the plugin
 
 Get the latest source code
 
-    $ git clone https://github.com/chariotsolutions/phonegap-nfc.git
+    $ git clone https://github.com/oaugustus/nfc-plugin.git
 
 Copy the Java source files from src/android/src/ of phonegap-nfc project into the source directory of your Android project.
 
@@ -47,7 +47,7 @@ For windows use xcopy
 
 Add the NfcPlugin in res/xml/config.xml
 
-    <plugin name="NfcPlugin" value="com.chariotsolutions.nfc.plugin.NfcPlugin"/>
+    <plugin name="NfcPlugin" value="br.com.neton.nfc.plugin.NfcPlugin"/>
 
 #### JavaScript 
 
@@ -83,7 +83,7 @@ If you want to restrict your application to only devices with NFC hardware, set 
 
 Get the latest source code
 
-    $ git clone https://github.com/chariotsolutions/phonegap-nfc.git
+    $ git clone https://github.com/oaugustus/nfc-plugin.git
 
 ### JavaScript 
 
@@ -122,7 +122,7 @@ The filter can also be more restrictive.  For example we could only handle TNF_M
 
 Get the latest source code
 
-    $ git clone https://github.com/chariotsolutions/phonegap-nfc.git
+    $ git clone https://github.com/oaugustus/nfc-plugin.git
 
 Build the code
 
@@ -170,13 +170,13 @@ You can delete phonegap-nfc-webworks-VERSION.jar
 
 Configure the NfcPlugin in www/plugins.xml
 
-    <plugin name="NfcPlugin" value="com.chariotsolutions.nfc.plugin.NfcPlugin"/>
+    <plugin name="NfcPlugin" value="br.com.neton.nfc.plugin.NfcPlugin"/>
     
 ## Windows Phone 8
 
 Get the latest source code
 
-    c:\> git clone https://github.com/chariotsolutions/phonegap-nfc.git
+    c:\> git clone https://github.com/oaugustus/nfc-plugin.git
 
 Copy the plugin files from phonegap-nfc\src\windows-phone-8 to the Plugins directory of your project
 

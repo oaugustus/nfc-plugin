@@ -1,4 +1,4 @@
-package com.chariotsolutions.nfc.plugin;
+package br.com.neton.nfc.plugin;
 
 import android.nfc.NdefMessage;
 import android.nfc.NdefRecord;

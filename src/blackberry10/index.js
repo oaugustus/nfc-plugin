@@ -1,7 +1,7 @@
 /*jshint quotmark:double, strict:false, bitwise: false */
 /*global PluginResult */
 
-// based on code from Gord Tanner https://github.com/chariotsolutions/phonegap-nfc/pull/32
+// based on code from Gord Tanner https://github.com/oaugustus/nfc-plugin/pull/32
 
 var alphabet = "ABCDEFGHIJKLM" +
                "NOPQRSTUVWXYZ" +

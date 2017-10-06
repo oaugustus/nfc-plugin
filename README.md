@@ -28,7 +28,7 @@ Supported Platforms
 
 # Installing
 
-**Cordova 3.1+ is the recommended way to use phonegap-nfc, see [Getting Started Cordova CLI](https://github.com/chariotsolutions/phonegap-nfc/blob/master/doc/GettingStartedCLI.md).**
+**Cordova 3.1+ is the recommended way to use phonegap-nfc, see [Getting Started Cordova CLI](https://github.com/oaugustus/nfc-plugin/blob/master/doc/GettingStartedCLI.md).**
 
 [INSTALL.md](INSTALL.md) has **older** instructions for installing the nfc-plugin into your PhoneGap project.
 
@@ -473,7 +473,7 @@ See `ndef.record`, `ndef.textRecord`, `ndef.mimeMediaRecord`, and `ndef.uriRecor
 
 The Ndef object has functions to convert some data types to and from byte arrays.
 
-See the [phonegap-nfc.js](https://github.com/chariotsolutions/phonegap-nfc/blob/master/www/phonegap-nfc.js) source for more documentation.
+See the [phonegap-nfc.js](https://github.com/oaugustus/nfc-plugin/blob/master/www/phonegap-nfc.js) source for more documentation.
 
 # Events
 
@@ -688,7 +688,7 @@ Tests require the [Cordova Plugin Test Framework](https://github.com/apache/cord
 
 Create a new project
 
-    git clone https://github.com/chariotsolutions/phonegap-nfc
+    git clone https://github.com/oaugustus/nfc-plugin
     cordova create nfc-test com.example.nfc.test NfcTest
     cd nfc-test
     cordova platform add android

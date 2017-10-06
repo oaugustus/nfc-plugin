@@ -58,6 +58,6 @@ var proxy = function(ndefMessageAsString) {
 nfc.addNdefListener = function (callback, success, failure) {
     "use strict";
     document.addEventListener("ndef", callback, false);
-    cordova.exec(proxy, failure, "com.chariotsolutions.nfc.plugin", "registerNdef", []);
+    cordova.exec(proxy, failure, "br.com.neton.nfc.plugin", "registerNdef", []);
     success(); // assume success
 };

@@ -1,4 +1,4 @@
-package com.chariotsolutions.nfc.plugin;
+package br.com.neton.nfc.plugin;
 
 import java.io.IOException;
 import java.text.MessageFormat;

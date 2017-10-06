@@ -22,7 +22,7 @@ If you are still using PhoneGap 2.9 see the legacy [Getting Started](GettingStar
 
 ### Install the Plugin
 
-    $ cordova plugin add https://github.com/chariotsolutions/phonegap-nfc.git
+    $ cordova plugin add https://github.com/oaugustus/nfc-plugin.git
             
 ### Edit `index.js`
 
