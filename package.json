@@ -1,11 +1,11 @@
 {
-  "name": "neton-nfc-plugin",
+  "name": "neton-plugin-nfc",
   "version": "1.0.0",
   "cordova": {
-    "id": "br.com.neton.nfc.plugin",
+    "id": "neton-plugin-nfc",
     "platforms": [
       "android"
     ]
   },
-  "description": "A starting point for a Cordova Plugin"
+  "description": "Cordova nfc plugin to read nfc tags"
 }
