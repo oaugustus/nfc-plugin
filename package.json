@@ -1,0 +1,11 @@
+{
+  "name": "neton-nfc-plugin",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "br.com.neton.nfc.plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "description": "A starting point for a Cordova Plugin"
+}
